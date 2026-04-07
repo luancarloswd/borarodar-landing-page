@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "Bora Rodar \u2014 Your road companion",
+    "description": "Plan routes, log rides, collect badges and find the motorcycle community.",
+    "ogTitle": "Bora Rodar \u2014 App for riders",
+    "ogDescription": "The companion app for those who live on two wheels."
+  },
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "events": "Events",
+    "blog": "Blog",
+    "cta": "Join the waitlist"
+  },
+  "hero": {
+    "headline": "Your road companion.",
+    "subheadline": "Plan routes, log rides, collect badges and find the community.",
+    "cta": "Join the waitlist",
+    "ctaSecondary": "See how it works"
+  },
+  "social_proof": {
+    "riders": "riders on the waitlist",
+    "badges": "badges to collect",
+    "monuments": "Rota Biker monuments",
+    "events": "events scheduled"
+  },
+  "features": {
+    "title": "Everything a rider needs.",
+    "plan": {
+      "title": "Plan Routes",
+      "desc": "Create day-by-day itineraries with places, lodging and gas stations."
+    },
+    "track": {
+      "title": "Track Rides",
+      "desc": "Real-time GPS, accumulated km, fuel consumption and speed."
+    },
+    "badges": {
+      "title": "Collect Badges",
+      "desc": "54 iconic destination badges + Rota Biker Bronze\u2192Silver\u2192Gold."
+    },
+    "maintain": {
+      "title": "Maintain Your Bike",
+      "desc": "Checklist, maintenance plan, AI diagnostics and manuals."
+    },
+    "events": {
+      "title": "Find Events",
+      "desc": "National calendar with registration, QR tickets and community rescue."
+    },
+    "sos": {
+      "title": "Roadside Assistance",
+      "desc": "Towing, mechanic, community rescue and AI diagnostics."
+    }
+  },
+  "deep_dive": {
+    "tracking": {
+      "title": "Track every kilometer.",
+      "desc": "Real-time GPS, heat map of your rides, accumulated km, average consumption and speed. Share your routes with the community."
+    },
+    "maintenance": {
+      "title": "Keep your bike in shape.",
+      "desc": "Pre-trip checklist, smart maintenance plan, AI diagnostics and manual uploads. Never miss a service again."
+    },
+    "community": {
+      "title": "Find your tribe.",
+      "desc": "National events, route groups, local meetups and community rescue system. You never ride alone."
+    }
+  },
+  "badges_showcase": {
+    "title": "54 destinations. 34 Rota Biker monuments.",
+    "subtitle": "How many will you conquer?"
+  },
+  "pricing": {
+    "title": "Simple and fair.",
+    "subtitle": "Choose the plan that fits you.",
+    "free": {
+      "name": "Free",
+      "price": "$0",
+      "period": "forever",
+      "cta": "Start free",
+      "features": [
+        "Ride tracking",
+        "5 badges",
+        "Pre-trip checklist",
+        "1 bike",
+        "Events"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$4",
+      "period": "/month",
+      "lifetime": "or $16 lifetime",
+      "cta": "Subscribe Pro",
+      "features": [
+        "Everything in Free",
+        "54 badges",
+        "Unlimited bikes",
+        "AI diagnostics",
+        "Manual uploads",
+        "GPX export",
+        "No ads",
+        "Exclusive Pro badge"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "What riders are saying.",
+    "items": [
+      {
+        "name": "Lucas M.",
+        "city": "S\u00e3o Paulo, SP",
+        "quote": "Finally an app made BY riders, FOR riders. The route tracking is incredible."
+      },
+      {
+        "name": "Fernanda R.",
+        "city": "Curitiba, PR",
+        "quote": "The badges are addicting! I've already planned 3 trips just to complete the Rota Biker collection."
+      },
+      {
+        "name": "Ricardo S.",
+        "city": "Belo Horizonte, MG",
+        "quote": "The AI diagnostics saved me on the road. It detected a problem before it became a breakdown."
+      }
+    ]
+  },
+  "waitlist": {
+    "title": "Be one of the first.",
+    "subtitle": "Join the waitlist and get 3 months of Pro free at launch.",
+    "name": "Name",
+    "email": "Email",
+    "city": "City (optional)",
+    "submit": "Join the waitlist",
+    "privacy": "No spam. Only app news.",
+    "count": "riders already in line",
+    "success": {
+      "title": "You are #{position} in line!",
+      "subtitle": "Confirmation sent to {email}",
+      "share": "Want to move up? Share:",
+      "copy": "Copy link",
+      "copied": "Copied!",
+      "referrals": "You referred: {count} riders",
+      "each": "Each friend = +1 spot in line"
+    }
+  },
+  "footer": {
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies",
+    "roadmap": "Roadmap",
+    "copyright": "\u00a9 2026 Bora Rodar. Made with \ud83c\udfcd\ufe0f in Brazil."
+  },
+  "about": {
+    "title": "About Bora Rodar",
+    "content": "Bora Rodar was born from a passion for motorcycles and the desire to create the best digital experience for those who live on two wheels. We are a team of riders and developers building the app we always wanted."
+  },
+  "privacy_page": {
+    "title": "Privacy Policy",
+    "content": "Your privacy is important to us. This policy describes how we collect, use and protect your personal data when using Bora Rodar."
+  },
+  "terms_page": {
+    "title": "Terms of Use",
+    "content": "By using Bora Rodar, you agree to these terms of use. Please read carefully before continuing."
+  },
+  "features_page": {
+    "title": "Features",
+    "subtitle": "Everything you need to enjoy every kilometer."
+  },
+  "pricing_page": {
+    "title": "Plans & Pricing",
+    "subtitle": "Choose the plan that matches your riding style."
+  }
+}

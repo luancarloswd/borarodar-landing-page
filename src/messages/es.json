@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "Bora Rodar \u2014 Tu compa\u00f1ero de ruta",
+    "description": "Planifica rutas, registra viajes, colecciona badges y encuentra la comunidad motociclista.",
+    "ogTitle": "Bora Rodar \u2014 App para motociclistas",
+    "ogDescription": "La app compa\u00f1era para quien vive sobre dos ruedas."
+  },
+  "nav": {
+    "features": "Funcionalidades",
+    "pricing": "Planes",
+    "events": "Eventos",
+    "blog": "Blog",
+    "cta": "Unirse a la waitlist"
+  },
+  "hero": {
+    "headline": "Tu compa\u00f1ero de ruta.",
+    "subheadline": "Planifica rutas, registra viajes, colecciona badges y encuentra la comunidad.",
+    "cta": "Unirse a la lista de espera",
+    "ctaSecondary": "Ver c\u00f3mo funciona"
+  },
+  "social_proof": {
+    "riders": "riders en la waitlist",
+    "badges": "badges para coleccionar",
+    "monuments": "monumentos Rota Biker",
+    "events": "eventos en la agenda"
+  },
+  "features": {
+    "title": "Todo lo que un motociclista necesita.",
+    "plan": {
+      "title": "Planifica Rutas",
+      "desc": "Crea itinerarios d\u00eda a d\u00eda con b\u00fasqueda de lugares, hospedajes y estaciones."
+    },
+    "track": {
+      "title": "Rastrea Viajes",
+      "desc": "GPS en tiempo real, km acumulados, consumo y velocidad."
+    },
+    "badges": {
+      "title": "Colecciona Badges",
+      "desc": "54 badges de destinos ic\u00f3nicos + Rota Biker Bronce\u2192Plata\u2192Oro."
+    },
+    "maintain": {
+      "title": "Cuida tu Moto",
+      "desc": "Checklist, plan de mantenimiento, diagn\u00f3stico IA y manuales."
+    },
+    "events": {
+      "title": "Encuentra Eventos",
+      "desc": "Agenda nacional con inscripci\u00f3n, entradas QR y rescate comunitario."
+    },
+    "sos": {
+      "title": "Auxilio en Ruta",
+      "desc": "Gr\u00faa, mec\u00e1nico, rescate comunitario y diagn\u00f3stico IA."
+    }
+  },
+  "deep_dive": {
+    "tracking": {
+      "title": "Rastrea cada kil\u00f3metro.",
+      "desc": "GPS en tiempo real, mapa de calor de tus viajes, km acumulados, consumo promedio y velocidad. Comparte tus rutas con la comunidad."
+    },
+    "maintenance": {
+      "title": "Tu moto siempre al d\u00eda.",
+      "desc": "Checklist pre-viaje, plan de mantenimiento inteligente, diagn\u00f3stico con IA y carga de manuales. Nunca m\u00e1s olvides una revisi\u00f3n."
+    },
+    "community": {
+      "title": "Encuentra tu tribu.",
+      "desc": "Eventos nacionales, grupos de ruta, encuentros locales y sistema de rescate comunitario. Nunca rodas solo."
+    }
+  },
+  "badges_showcase": {
+    "title": "54 destinos. 34 monumentos Rota Biker.",
+    "subtitle": "\u00bfCu\u00e1ntos vas a conquistar?"
+  },
+  "pricing": {
+    "title": "Simple y justo.",
+    "subtitle": "Elige el plan ideal para ti.",
+    "free": {
+      "name": "Free",
+      "price": "US$0",
+      "period": "para siempre",
+      "cta": "Empezar gratis",
+      "features": [
+        "Ride tracking",
+        "5 badges",
+        "Checklist pre-viaje",
+        "1 moto",
+        "Eventos"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "US$4",
+      "period": "/mes",
+      "lifetime": "o US$16 de por vida",
+      "cta": "Suscribir Pro",
+      "features": [
+        "Todo de Free",
+        "54 badges",
+        "Motos ilimitadas",
+        "Diagn\u00f3stico IA",
+        "Carga de manuales",
+        "Export GPX",
+        "Sin anuncios",
+        "Badge exclusiva Pro"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Lo que dicen los riders.",
+    "items": [
+      {
+        "name": "Lucas M.",
+        "city": "S\u00e3o Paulo, SP",
+        "quote": "Por fin una app hecha POR motociclistas, PARA motociclistas. El tracking de ruta es incre\u00edble."
+      },
+      {
+        "name": "Fernanda R.",
+        "city": "Curitiba, PR",
+        "quote": "\u00a1Los badges son adictivos! Ya plane\u00e9 3 viajes solo para completar la colecci\u00f3n Rota Biker."
+      },
+      {
+        "name": "Ricardo S.",
+        "city": "Belo Horizonte, MG",
+        "quote": "El diagn\u00f3stico IA me salv\u00f3 en la ruta. Detect\u00f3 un problema antes de que fuera aver\u00eda."
+      }
+    ]
+  },
+  "waitlist": {
+    "title": "S\u00e9 uno de los primeros.",
+    "subtitle": "\u00danete a la lista de espera y obt\u00e9n 3 meses de Pro gratis en el lanzamiento.",
+    "name": "Nombre",
+    "email": "Email",
+    "city": "Ciudad (opcional)",
+    "submit": "Unirse a la waitlist",
+    "privacy": "Sin spam. Solo novedades de la app.",
+    "count": "riders ya en la fila",
+    "success": {
+      "title": "\u00a1Eres el #{position} en la fila!",
+      "subtitle": "Confirmaci\u00f3n enviada a {email}",
+      "share": "\u00bfQuieres subir en la fila? Comparte:",
+      "copy": "Copiar link",
+      "copied": "\u00a1Copiado!",
+      "referrals": "Referiste: {count} riders",
+      "each": "Cada amigo = +1 posici\u00f3n en la fila"
+    }
+  },
+  "footer": {
+    "product": "Producto",
+    "company": "Empresa",
+    "legal": "Legal",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "terms": "T\u00e9rminos",
+    "cookies": "Cookies",
+    "roadmap": "Roadmap",
+    "copyright": "\u00a9 2026 Bora Rodar. Hecho con \ud83c\udfcd\ufe0f en Brasil."
+  },
+  "about": {
+    "title": "Sobre Bora Rodar",
+    "content": "Bora Rodar naci\u00f3 de la pasi\u00f3n por las motocicletas y el deseo de crear la mejor experiencia digital para quienes viven sobre dos ruedas. Somos un equipo de riders y desarrolladores construyendo la app que siempre quisimos tener."
+  },
+  "privacy_page": {
+    "title": "Pol\u00edtica de Privacidad",
+    "content": "Tu privacidad es importante para nosotros. Esta pol\u00edtica describe c\u00f3mo recopilamos, usamos y protegemos tus datos personales al utilizar Bora Rodar."
+  },
+  "terms_page": {
+    "title": "T\u00e9rminos de Uso",
+    "content": "Al utilizar Bora Rodar, aceptas estos t\u00e9rminos de uso. Por favor, lee atentamente antes de continuar."
+  },
+  "features_page": {
+    "title": "Funcionalidades",
+    "subtitle": "Todo lo que necesitas para disfrutar cada kil\u00f3metro."
+  },
+  "pricing_page": {
+    "title": "Planes y Precios",
+    "subtitle": "Elige el plan ideal para tu estilo de conducci\u00f3n."
+  }
+}

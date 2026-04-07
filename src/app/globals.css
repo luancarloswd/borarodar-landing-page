@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --forest: #205040;
+  --forest-light: #2A6B55;
+  --forest-dark: #183D30;
+  --khaki: #A09060;
+  --khaki-light: #B8A878;
+  --sand: #ECD5AB;
+  --sand-light: #F5E8CC;
+  --hero-gradient: linear-gradient(135deg, #183D30 0%, #205040 50%, #2A6B55 100%);
+  --cta-gradient: linear-gradient(135deg, #A09060 0%, #C8B878 100%);
+  --surface: #FAFAF7;
+  --surface-alt: #F2F0EB;
+  --text-primary: #1A1A1A;
+  --text-secondary: #5A5A5A;
+  --text-on-dark: #F5E8CC;
+  --font-display: 'Plus Jakarta Sans', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+body {
+  background: var(--surface);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+}
+
+/* Badge showcase infinite scroll */
+@keyframes scroll-badges {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll-badges {
+  animation: scroll-badges 30s linear infinite;
+}
+
+.animate-scroll-badges:hover {
+  animation-play-state: paused;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
