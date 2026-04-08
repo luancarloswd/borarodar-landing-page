@@ -173,5 +173,13 @@
   "pricing_page": {
     "title": "Planes y Precios",
     "subtitle": "Elige el plan ideal para tu estilo de conducci\u00f3n."
+  },
+  "follow": {
+    "follow": "Seguir",
+    "following": "Siguiendo",
+    "loading": "...",
+    "error_self": "No puedes seguirte a ti mismo.",
+    "error_not_found": "Rider no encontrado.",
+    "error_generic": "Algo sali\u00f3 mal. Int\u00e9ntalo de nuevo."
   }
 }

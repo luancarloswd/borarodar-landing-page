@@ -173,5 +173,13 @@
   "pricing_page": {
     "title": "Plans & Pricing",
     "subtitle": "Choose the plan that matches your riding style."
+  },
+  "follow": {
+    "follow": "Follow",
+    "following": "Following",
+    "loading": "...",
+    "error_self": "You cannot follow yourself.",
+    "error_not_found": "Rider not found.",
+    "error_generic": "Something went wrong. Please try again."
   }
 }
